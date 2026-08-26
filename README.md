@@ -21,7 +21,7 @@ Here is the story of how this project has evolved so far:
 * **Commit:** *"Update project title to include 'in ML'"*
 * **What happened:** Just some minor repo cleanup to make the project intent clearer. 
 
-### April 30, 2026: The Data *Verbesserungen* (Improvements) 🚀
+### April 30, 2026: The Data  Improvements 🚀
 * **Commits:** *"Update: Removed capped prices, added Bedrms_per_Room feature"*
 * **What happened:** This was the big breakthrough day. I stopped focusing on the algorithm and started fixing the data itself:
   1. **Removed Artificial Caps:** Discovered the original dataset arbitrarily capped expensive houses at $500,000. I sliced those out so the AI wouldn't learn a fake "ceiling" for the housing market.
